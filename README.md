@@ -1,5 +1,10 @@
 # InventoryApp-C482
-C482 Project
+C482
+
+Uploading C482 Application Video Demonstration_default.mp4…
+
+ Project
+
 COMPETENCIES
 430.02.05 : Classes and Interfaces
 The graduate designs software solutions with appropriate classes, objects, methods, and interfaces to achieve specific goals.
