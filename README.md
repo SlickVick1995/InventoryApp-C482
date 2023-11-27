@@ -1,7 +1,7 @@
 # InventoryApp-C482
 C482
 
-Uploading C482 Application Video Demonstration_default.mp4…
+Uploading C482 Application Video Demonstration_default.mp4
 
  Project
 
