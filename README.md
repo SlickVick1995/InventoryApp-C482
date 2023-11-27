@@ -1,9 +1,10 @@
 # InventoryApp-C482
 C482
 
-Uploading C482 Application Video Demonstration_default.mp4
+https://github.com/SlickVick1995/InventoryApp-C482/assets/36906751/bdaa0fbf-b57f-4cd9-aaf9-abee646e4ae5
+https://us06web.zoom.us/rec/share/D_VZ0ZtEyCLGSOSqlqUSqVs_k76vgMtjPY_UBbAMFBk_6GXgXMvdiR38u5yQ93o8.9UqDfHvRZx8Qn7DY
+Passcode: =1!2nnu4
 
- Project
 
 COMPETENCIES
 430.02.05 : Classes and Interfaces
