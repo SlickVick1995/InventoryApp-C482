@@ -1,0 +1,5 @@
+module:com.example.inventoryapp
+com.example.inventoryapp
+com.example.inventoryapp.Controller
+com.example.inventoryapp.Model
+com.example.inventoryapp.viewloader
